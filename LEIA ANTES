@@ -1,0 +1,17 @@
+Olá pessoal
+
+O sistema ERP que utilizo é o Tiny, que é um sistema de gestão para micro e pequenas empresas (para mais informações: https://tiny.com.br/)
+
+** Me perdoem pelos if/elif, estou me desenvolvendo cada dia mais, um dia chego lá
+** No momento (14/11/2023) esse sisteminha está em sua primeira versão. Ainda vou implementar tratamento de erros, módulos, funções e também quero criar uma interface com o PyQt6
+
+Para o sistema funcionar é necessário ir no arquivo importants.py e preencher as informações:
+    - Email para login no Tiny (usuario)
+    - Senha para login no Tiny (senha)
+    - Data inicial para o filtro de pedidos (dataInicial)
+    - Data final para o filtro de pedidos (dataFinal)
+    - Caminho para onde quer que o arquivo xlsx vá (localFinal)
+
+Ainda está um pouco manual o processo do meu script (precisando, no código, inserir as informações). No entanto, como já mecionado, estarei atualizando o projeto conforme evoluo nos meus estudos
+
+Agradeçooo !!
